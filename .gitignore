@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+
+# Build artifacts
+build/
+dist/
+out/
+lib/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Optional: IDE files
+.vscode/
+.idea/
+
+# Optional: Operating System files
+.DS_Store
+Thumbs.db

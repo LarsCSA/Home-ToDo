@@ -1,0 +1,14 @@
+{
+  "name": "home-todo",
+  "version": "1.0.0",
+  "description": "Homework calender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oscar majewski, cemal özdemir, emil raffaseder, lars rassar",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  }
+}
